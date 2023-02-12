@@ -25,7 +25,7 @@ def linear_search(data: List[__T], k: int) -> __T:
 
     :param data: The list to search.
     :param k: The k-th smallest element to search for
-    :return: the k-th smallest element of a
+    :return: the k-th smallest element of data
     """
     n = len(data)
     # base case of the algorithm
